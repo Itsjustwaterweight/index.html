@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Personal Introduction</title>
+<style>
+body{
+background color:4A9FCE
+}
+h1{
+color:5EBAD0
+}
+p{
+71A0BA
+}
+</style>
+</head>
+<body>
+<h1>My Name is Isaiah Smith</h1>
+<p> I am a web developing student trying to get my degree in computer science. In my free time I love playing the bagpipes, bass gutar, working out, and gaming. I engoy being outside and I love biking and gardening.</p>
+</body>
+</html>
